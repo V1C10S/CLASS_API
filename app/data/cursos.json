@@ -1,0 +1,322 @@
+[
+    {
+        "area": "TI",
+        "nome_curso": "analise e desenvolvimento de sistemas",
+        "sigla": "ADS",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "ciencia da computacao",
+        "sigla": "CDC",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "engenharia da computacao",
+        "sigla": "EGC",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "sistemas de informacao",
+        "sigla": "SDI",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "gestao da tecnologia",
+        "sigla": "GTC",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "ciberseguranca",
+        "sigla": "CBS",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "big data",
+        "sigla": "BGD",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "ciencia de dados",
+        "sigla": "CDD",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "engenharia de dados",
+        "sigla": "EGD",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "inteligencia artificial",
+        "sigla": "ITA",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "computacao em nuvem",
+        "sigla": "CEN",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "desenvolvimento de software",
+        "sigla": "DDS",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "engenharia de software",
+        "sigla": "EGS",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "programacao de computadores",
+        "sigla": "PDC",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "jogos digitais",
+        "sigla": "JDG",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "computacao grafica",
+        "sigla": "CGI",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "robotica",
+        "sigla": "RBT",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "automacao e controle",
+        "sigla": "AUC",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "TI",
+        "nome_curso": "gestao de infraestrutura",
+        "sigla": "GIT",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "medicina",
+        "sigla": "MED",
+        "tipo": "bacharelado",
+        "duracao_semestres": 12,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "enfermagem",
+        "sigla": "ENF",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "biomedicina",
+        "sigla": "BMD",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "farmacia",
+        "sigla": "FAR",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "fisioterapia",
+        "sigla": "FIS",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "nutricao",
+        "sigla": "NUT",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "odontologia",
+        "sigla": "ODO",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Medicina",
+        "nome_curso": "psicologia",
+        "sigla": "PSI",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "matematica",
+        "sigla": "MAT",
+        "tipo": "licenciatura",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "fisica",
+        "sigla": "FSC",
+        "tipo": "licenciatura",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "estatistica",
+        "sigla": "EST",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "engenharia civil",
+        "sigla": "ECV",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "engenharia mecanica",
+        "sigla": "EGM",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "engenharia eletrica",
+        "sigla": "EGE",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Exatas",
+        "nome_curso": "engenharia de producao",
+        "sigla": "EGP",
+        "tipo": "bacharelado",
+        "duracao_semestres": 10,
+        "status": "ativo"
+    },
+    {
+        "area": "Economia",
+        "nome_curso": "economia",
+        "sigla": "ECO",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Economia",
+        "nome_curso": "administracao",
+        "sigla": "ADM",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Economia",
+        "nome_curso": "ciencias contabeis",
+        "sigla": "CCO",
+        "tipo": "bacharelado",
+        "duracao_semestres": 8,
+        "status": "ativo"
+    },
+    {
+        "area": "Economia",
+        "nome_curso": "gestao financeira",
+        "sigla": "GFI",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "Economia",
+        "nome_curso": "comercio exterior",
+        "sigla": "CEX",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    },
+    {
+        "area": "Economia",
+        "nome_curso": "logistica",
+        "sigla": "LOG",
+        "tipo": "tecnologo",
+        "duracao_semestres": 5,
+        "status": "ativo"
+    }
+]

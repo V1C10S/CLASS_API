@@ -1,0 +1,4898 @@
+[
+    {
+        "codigo": "ADS_S01_M01",
+        "nome": "fundamentos de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S01_M02",
+        "nome": "introducao profissional de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S02_M01",
+        "nome": "metodos aplicados de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S02_M02",
+        "nome": "pratica aplicada de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S03_M01",
+        "nome": "processos profissionais de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S03_M02",
+        "nome": "laboratorio aplicado de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S04_M01",
+        "nome": "analise profissional de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S04_M02",
+        "nome": "projeto aplicado de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S05_M01",
+        "nome": "gestao aplicada de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADS_S05_M02",
+        "nome": "projeto integrador de analise e desenvolvimento de sistemas",
+        "curso": "ADS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S01_M01",
+        "nome": "fundamentos de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S01_M02",
+        "nome": "introducao profissional de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S02_M01",
+        "nome": "metodos aplicados de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S02_M02",
+        "nome": "pratica aplicada de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S03_M01",
+        "nome": "processos profissionais de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S03_M02",
+        "nome": "laboratorio aplicado de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S04_M01",
+        "nome": "analise profissional de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S04_M02",
+        "nome": "projeto aplicado de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S05_M01",
+        "nome": "gestao aplicada de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S05_M02",
+        "nome": "projeto integrador de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S06_M01",
+        "nome": "tecnicas avancadas de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S06_M02",
+        "nome": "solucoes profissionais de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S07_M01",
+        "nome": "topicos avancados de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S07_M02",
+        "nome": "pesquisa aplicada de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S08_M01",
+        "nome": "planejamento profissional de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDC_S08_M02",
+        "nome": "projeto profissional de ciencia da computacao",
+        "curso": "CDC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S01_M01",
+        "nome": "fundamentos de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S01_M02",
+        "nome": "introducao profissional de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S02_M01",
+        "nome": "metodos aplicados de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S02_M02",
+        "nome": "pratica aplicada de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S03_M01",
+        "nome": "processos profissionais de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S03_M02",
+        "nome": "laboratorio aplicado de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S04_M01",
+        "nome": "analise profissional de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S04_M02",
+        "nome": "projeto aplicado de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S05_M01",
+        "nome": "gestao aplicada de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S05_M02",
+        "nome": "projeto integrador de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S06_M01",
+        "nome": "tecnicas avancadas de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S06_M02",
+        "nome": "solucoes profissionais de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S07_M01",
+        "nome": "topicos avancados de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S07_M02",
+        "nome": "pesquisa aplicada de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S08_M01",
+        "nome": "planejamento profissional de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S08_M02",
+        "nome": "projeto profissional de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S09_M01",
+        "nome": "pratica supervisionada de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S09_M02",
+        "nome": "estudos avancados de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S10_M01",
+        "nome": "estagio supervisionado de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGC_S10_M02",
+        "nome": "projeto final de engenharia da computacao",
+        "curso": "EGC",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S01_M01",
+        "nome": "fundamentos de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S01_M02",
+        "nome": "introducao profissional de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S02_M01",
+        "nome": "metodos aplicados de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S02_M02",
+        "nome": "pratica aplicada de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S03_M01",
+        "nome": "processos profissionais de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S03_M02",
+        "nome": "laboratorio aplicado de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S04_M01",
+        "nome": "analise profissional de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S04_M02",
+        "nome": "projeto aplicado de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S05_M01",
+        "nome": "gestao aplicada de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S05_M02",
+        "nome": "projeto integrador de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S06_M01",
+        "nome": "tecnicas avancadas de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S06_M02",
+        "nome": "solucoes profissionais de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S07_M01",
+        "nome": "topicos avancados de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S07_M02",
+        "nome": "pesquisa aplicada de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S08_M01",
+        "nome": "planejamento profissional de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "SDI_S08_M02",
+        "nome": "projeto profissional de sistemas de informacao",
+        "curso": "SDI",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S01_M01",
+        "nome": "fundamentos de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S01_M02",
+        "nome": "introducao profissional de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S02_M01",
+        "nome": "metodos aplicados de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S02_M02",
+        "nome": "pratica aplicada de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S03_M01",
+        "nome": "processos profissionais de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S03_M02",
+        "nome": "laboratorio aplicado de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S04_M01",
+        "nome": "analise profissional de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S04_M02",
+        "nome": "projeto aplicado de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S05_M01",
+        "nome": "gestao aplicada de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GTC_S05_M02",
+        "nome": "projeto integrador de gestao da tecnologia",
+        "curso": "GTC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S01_M01",
+        "nome": "fundamentos de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S01_M02",
+        "nome": "introducao profissional de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S02_M01",
+        "nome": "metodos aplicados de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S02_M02",
+        "nome": "pratica aplicada de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S03_M01",
+        "nome": "processos profissionais de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S03_M02",
+        "nome": "laboratorio aplicado de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S04_M01",
+        "nome": "analise profissional de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S04_M02",
+        "nome": "projeto aplicado de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S05_M01",
+        "nome": "gestao aplicada de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CBS_S05_M02",
+        "nome": "projeto integrador de ciberseguranca",
+        "curso": "CBS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S01_M01",
+        "nome": "fundamentos de big data",
+        "curso": "BGD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S01_M02",
+        "nome": "introducao profissional de big data",
+        "curso": "BGD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S02_M01",
+        "nome": "metodos aplicados de big data",
+        "curso": "BGD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S02_M02",
+        "nome": "pratica aplicada de big data",
+        "curso": "BGD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S03_M01",
+        "nome": "processos profissionais de big data",
+        "curso": "BGD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S03_M02",
+        "nome": "laboratorio aplicado de big data",
+        "curso": "BGD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S04_M01",
+        "nome": "analise profissional de big data",
+        "curso": "BGD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S04_M02",
+        "nome": "projeto aplicado de big data",
+        "curso": "BGD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S05_M01",
+        "nome": "gestao aplicada de big data",
+        "curso": "BGD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BGD_S05_M02",
+        "nome": "projeto integrador de big data",
+        "curso": "BGD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S01_M01",
+        "nome": "fundamentos de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S01_M02",
+        "nome": "introducao profissional de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S02_M01",
+        "nome": "metodos aplicados de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S02_M02",
+        "nome": "pratica aplicada de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S03_M01",
+        "nome": "processos profissionais de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S03_M02",
+        "nome": "laboratorio aplicado de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S04_M01",
+        "nome": "analise profissional de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S04_M02",
+        "nome": "projeto aplicado de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S05_M01",
+        "nome": "gestao aplicada de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CDD_S05_M02",
+        "nome": "projeto integrador de ciencia de dados",
+        "curso": "CDD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S01_M01",
+        "nome": "fundamentos de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S01_M02",
+        "nome": "introducao profissional de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S02_M01",
+        "nome": "metodos aplicados de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S02_M02",
+        "nome": "pratica aplicada de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S03_M01",
+        "nome": "processos profissionais de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S03_M02",
+        "nome": "laboratorio aplicado de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S04_M01",
+        "nome": "analise profissional de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S04_M02",
+        "nome": "projeto aplicado de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S05_M01",
+        "nome": "gestao aplicada de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S05_M02",
+        "nome": "projeto integrador de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S06_M01",
+        "nome": "tecnicas avancadas de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S06_M02",
+        "nome": "solucoes profissionais de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S07_M01",
+        "nome": "topicos avancados de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S07_M02",
+        "nome": "pesquisa aplicada de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S08_M01",
+        "nome": "planejamento profissional de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGD_S08_M02",
+        "nome": "projeto profissional de engenharia de dados",
+        "curso": "EGD",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S01_M01",
+        "nome": "fundamentos de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S01_M02",
+        "nome": "introducao profissional de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S02_M01",
+        "nome": "metodos aplicados de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S02_M02",
+        "nome": "pratica aplicada de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S03_M01",
+        "nome": "processos profissionais de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S03_M02",
+        "nome": "laboratorio aplicado de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S04_M01",
+        "nome": "analise profissional de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S04_M02",
+        "nome": "projeto aplicado de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S05_M01",
+        "nome": "gestao aplicada de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S05_M02",
+        "nome": "projeto integrador de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S06_M01",
+        "nome": "tecnicas avancadas de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S06_M02",
+        "nome": "solucoes profissionais de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S07_M01",
+        "nome": "topicos avancados de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S07_M02",
+        "nome": "pesquisa aplicada de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S08_M01",
+        "nome": "planejamento profissional de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ITA_S08_M02",
+        "nome": "projeto profissional de inteligencia artificial",
+        "curso": "ITA",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S01_M01",
+        "nome": "fundamentos de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S01_M02",
+        "nome": "introducao profissional de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S02_M01",
+        "nome": "metodos aplicados de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S02_M02",
+        "nome": "pratica aplicada de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S03_M01",
+        "nome": "processos profissionais de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S03_M02",
+        "nome": "laboratorio aplicado de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S04_M01",
+        "nome": "analise profissional de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S04_M02",
+        "nome": "projeto aplicado de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S05_M01",
+        "nome": "gestao aplicada de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEN_S05_M02",
+        "nome": "projeto integrador de computacao em nuvem",
+        "curso": "CEN",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S01_M01",
+        "nome": "fundamentos de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S01_M02",
+        "nome": "introducao profissional de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S02_M01",
+        "nome": "metodos aplicados de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S02_M02",
+        "nome": "pratica aplicada de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S03_M01",
+        "nome": "processos profissionais de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S03_M02",
+        "nome": "laboratorio aplicado de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S04_M01",
+        "nome": "analise profissional de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S04_M02",
+        "nome": "projeto aplicado de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S05_M01",
+        "nome": "gestao aplicada de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "DDS_S05_M02",
+        "nome": "projeto integrador de desenvolvimento de software",
+        "curso": "DDS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S01_M01",
+        "nome": "fundamentos de engenharia de software",
+        "curso": "EGS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S01_M02",
+        "nome": "introducao profissional de engenharia de software",
+        "curso": "EGS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S02_M01",
+        "nome": "metodos aplicados de engenharia de software",
+        "curso": "EGS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S02_M02",
+        "nome": "pratica aplicada de engenharia de software",
+        "curso": "EGS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S03_M01",
+        "nome": "processos profissionais de engenharia de software",
+        "curso": "EGS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S03_M02",
+        "nome": "laboratorio aplicado de engenharia de software",
+        "curso": "EGS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S04_M01",
+        "nome": "analise profissional de engenharia de software",
+        "curso": "EGS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S04_M02",
+        "nome": "projeto aplicado de engenharia de software",
+        "curso": "EGS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S05_M01",
+        "nome": "gestao aplicada de engenharia de software",
+        "curso": "EGS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S05_M02",
+        "nome": "projeto integrador de engenharia de software",
+        "curso": "EGS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S06_M01",
+        "nome": "tecnicas avancadas de engenharia de software",
+        "curso": "EGS",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S06_M02",
+        "nome": "solucoes profissionais de engenharia de software",
+        "curso": "EGS",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S07_M01",
+        "nome": "topicos avancados de engenharia de software",
+        "curso": "EGS",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S07_M02",
+        "nome": "pesquisa aplicada de engenharia de software",
+        "curso": "EGS",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S08_M01",
+        "nome": "planejamento profissional de engenharia de software",
+        "curso": "EGS",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGS_S08_M02",
+        "nome": "projeto profissional de engenharia de software",
+        "curso": "EGS",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S01_M01",
+        "nome": "fundamentos de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S01_M02",
+        "nome": "introducao profissional de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S02_M01",
+        "nome": "metodos aplicados de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S02_M02",
+        "nome": "pratica aplicada de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S03_M01",
+        "nome": "processos profissionais de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S03_M02",
+        "nome": "laboratorio aplicado de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S04_M01",
+        "nome": "analise profissional de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S04_M02",
+        "nome": "projeto aplicado de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S05_M01",
+        "nome": "gestao aplicada de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PDC_S05_M02",
+        "nome": "projeto integrador de programacao de computadores",
+        "curso": "PDC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S01_M01",
+        "nome": "fundamentos de jogos digitais",
+        "curso": "JDG",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S01_M02",
+        "nome": "introducao profissional de jogos digitais",
+        "curso": "JDG",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S02_M01",
+        "nome": "metodos aplicados de jogos digitais",
+        "curso": "JDG",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S02_M02",
+        "nome": "pratica aplicada de jogos digitais",
+        "curso": "JDG",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S03_M01",
+        "nome": "processos profissionais de jogos digitais",
+        "curso": "JDG",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S03_M02",
+        "nome": "laboratorio aplicado de jogos digitais",
+        "curso": "JDG",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S04_M01",
+        "nome": "analise profissional de jogos digitais",
+        "curso": "JDG",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S04_M02",
+        "nome": "projeto aplicado de jogos digitais",
+        "curso": "JDG",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S05_M01",
+        "nome": "gestao aplicada de jogos digitais",
+        "curso": "JDG",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "JDG_S05_M02",
+        "nome": "projeto integrador de jogos digitais",
+        "curso": "JDG",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S01_M01",
+        "nome": "fundamentos de computacao grafica",
+        "curso": "CGI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S01_M02",
+        "nome": "introducao profissional de computacao grafica",
+        "curso": "CGI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S02_M01",
+        "nome": "metodos aplicados de computacao grafica",
+        "curso": "CGI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S02_M02",
+        "nome": "pratica aplicada de computacao grafica",
+        "curso": "CGI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S03_M01",
+        "nome": "processos profissionais de computacao grafica",
+        "curso": "CGI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S03_M02",
+        "nome": "laboratorio aplicado de computacao grafica",
+        "curso": "CGI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S04_M01",
+        "nome": "analise profissional de computacao grafica",
+        "curso": "CGI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S04_M02",
+        "nome": "projeto aplicado de computacao grafica",
+        "curso": "CGI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S05_M01",
+        "nome": "gestao aplicada de computacao grafica",
+        "curso": "CGI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CGI_S05_M02",
+        "nome": "projeto integrador de computacao grafica",
+        "curso": "CGI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S01_M01",
+        "nome": "fundamentos de robotica",
+        "curso": "RBT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S01_M02",
+        "nome": "introducao profissional de robotica",
+        "curso": "RBT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S02_M01",
+        "nome": "metodos aplicados de robotica",
+        "curso": "RBT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S02_M02",
+        "nome": "pratica aplicada de robotica",
+        "curso": "RBT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S03_M01",
+        "nome": "processos profissionais de robotica",
+        "curso": "RBT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S03_M02",
+        "nome": "laboratorio aplicado de robotica",
+        "curso": "RBT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S04_M01",
+        "nome": "analise profissional de robotica",
+        "curso": "RBT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S04_M02",
+        "nome": "projeto aplicado de robotica",
+        "curso": "RBT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S05_M01",
+        "nome": "gestao aplicada de robotica",
+        "curso": "RBT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S05_M02",
+        "nome": "projeto integrador de robotica",
+        "curso": "RBT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S06_M01",
+        "nome": "tecnicas avancadas de robotica",
+        "curso": "RBT",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S06_M02",
+        "nome": "solucoes profissionais de robotica",
+        "curso": "RBT",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S07_M01",
+        "nome": "topicos avancados de robotica",
+        "curso": "RBT",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S07_M02",
+        "nome": "pesquisa aplicada de robotica",
+        "curso": "RBT",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S08_M01",
+        "nome": "planejamento profissional de robotica",
+        "curso": "RBT",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S08_M02",
+        "nome": "projeto profissional de robotica",
+        "curso": "RBT",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S09_M01",
+        "nome": "pratica supervisionada de robotica",
+        "curso": "RBT",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S09_M02",
+        "nome": "estudos avancados de robotica",
+        "curso": "RBT",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S10_M01",
+        "nome": "estagio supervisionado de robotica",
+        "curso": "RBT",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "RBT_S10_M02",
+        "nome": "projeto final de robotica",
+        "curso": "RBT",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S01_M01",
+        "nome": "fundamentos de automacao e controle",
+        "curso": "AUC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S01_M02",
+        "nome": "introducao profissional de automacao e controle",
+        "curso": "AUC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S02_M01",
+        "nome": "metodos aplicados de automacao e controle",
+        "curso": "AUC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S02_M02",
+        "nome": "pratica aplicada de automacao e controle",
+        "curso": "AUC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S03_M01",
+        "nome": "processos profissionais de automacao e controle",
+        "curso": "AUC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S03_M02",
+        "nome": "laboratorio aplicado de automacao e controle",
+        "curso": "AUC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S04_M01",
+        "nome": "analise profissional de automacao e controle",
+        "curso": "AUC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S04_M02",
+        "nome": "projeto aplicado de automacao e controle",
+        "curso": "AUC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S05_M01",
+        "nome": "gestao aplicada de automacao e controle",
+        "curso": "AUC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S05_M02",
+        "nome": "projeto integrador de automacao e controle",
+        "curso": "AUC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S06_M01",
+        "nome": "tecnicas avancadas de automacao e controle",
+        "curso": "AUC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S06_M02",
+        "nome": "solucoes profissionais de automacao e controle",
+        "curso": "AUC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S07_M01",
+        "nome": "topicos avancados de automacao e controle",
+        "curso": "AUC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S07_M02",
+        "nome": "pesquisa aplicada de automacao e controle",
+        "curso": "AUC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S08_M01",
+        "nome": "planejamento profissional de automacao e controle",
+        "curso": "AUC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S08_M02",
+        "nome": "projeto profissional de automacao e controle",
+        "curso": "AUC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S09_M01",
+        "nome": "pratica supervisionada de automacao e controle",
+        "curso": "AUC",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S09_M02",
+        "nome": "estudos avancados de automacao e controle",
+        "curso": "AUC",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S10_M01",
+        "nome": "estagio supervisionado de automacao e controle",
+        "curso": "AUC",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "AUC_S10_M02",
+        "nome": "projeto final de automacao e controle",
+        "curso": "AUC",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S01_M01",
+        "nome": "fundamentos de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S01_M02",
+        "nome": "introducao profissional de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S02_M01",
+        "nome": "metodos aplicados de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S02_M02",
+        "nome": "pratica aplicada de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S03_M01",
+        "nome": "processos profissionais de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S03_M02",
+        "nome": "laboratorio aplicado de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S04_M01",
+        "nome": "analise profissional de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S04_M02",
+        "nome": "projeto aplicado de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S05_M01",
+        "nome": "gestao aplicada de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GIT_S05_M02",
+        "nome": "projeto integrador de gestao de infraestrutura",
+        "curso": "GIT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S01_M01",
+        "nome": "fundamentos de medicina",
+        "curso": "MED",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S01_M02",
+        "nome": "introducao profissional de medicina",
+        "curso": "MED",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S02_M01",
+        "nome": "metodos aplicados de medicina",
+        "curso": "MED",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S02_M02",
+        "nome": "pratica aplicada de medicina",
+        "curso": "MED",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S03_M01",
+        "nome": "processos profissionais de medicina",
+        "curso": "MED",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S03_M02",
+        "nome": "laboratorio aplicado de medicina",
+        "curso": "MED",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S04_M01",
+        "nome": "analise profissional de medicina",
+        "curso": "MED",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S04_M02",
+        "nome": "projeto aplicado de medicina",
+        "curso": "MED",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S05_M01",
+        "nome": "gestao aplicada de medicina",
+        "curso": "MED",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S05_M02",
+        "nome": "projeto integrador de medicina",
+        "curso": "MED",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S06_M01",
+        "nome": "tecnicas avancadas de medicina",
+        "curso": "MED",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S06_M02",
+        "nome": "solucoes profissionais de medicina",
+        "curso": "MED",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S07_M01",
+        "nome": "topicos avancados de medicina",
+        "curso": "MED",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S07_M02",
+        "nome": "pesquisa aplicada de medicina",
+        "curso": "MED",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S08_M01",
+        "nome": "planejamento profissional de medicina",
+        "curso": "MED",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S08_M02",
+        "nome": "projeto profissional de medicina",
+        "curso": "MED",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S09_M01",
+        "nome": "pratica supervisionada de medicina",
+        "curso": "MED",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S09_M02",
+        "nome": "estudos avancados de medicina",
+        "curso": "MED",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S10_M01",
+        "nome": "estagio supervisionado de medicina",
+        "curso": "MED",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S10_M02",
+        "nome": "projeto final de medicina",
+        "curso": "MED",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S11_M01",
+        "nome": "pratica especializada de medicina",
+        "curso": "MED",
+        "semestre": 11,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S11_M02",
+        "nome": "aprofundamento profissional de medicina",
+        "curso": "MED",
+        "semestre": 11,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S12_M01",
+        "nome": "estagio final de medicina",
+        "curso": "MED",
+        "semestre": 12,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MED_S12_M02",
+        "nome": "conclusao profissional de medicina",
+        "curso": "MED",
+        "semestre": 12,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S01_M01",
+        "nome": "fundamentos de enfermagem",
+        "curso": "ENF",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S01_M02",
+        "nome": "introducao profissional de enfermagem",
+        "curso": "ENF",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S02_M01",
+        "nome": "metodos aplicados de enfermagem",
+        "curso": "ENF",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S02_M02",
+        "nome": "pratica aplicada de enfermagem",
+        "curso": "ENF",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S03_M01",
+        "nome": "processos profissionais de enfermagem",
+        "curso": "ENF",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S03_M02",
+        "nome": "laboratorio aplicado de enfermagem",
+        "curso": "ENF",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S04_M01",
+        "nome": "analise profissional de enfermagem",
+        "curso": "ENF",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S04_M02",
+        "nome": "projeto aplicado de enfermagem",
+        "curso": "ENF",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S05_M01",
+        "nome": "gestao aplicada de enfermagem",
+        "curso": "ENF",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S05_M02",
+        "nome": "projeto integrador de enfermagem",
+        "curso": "ENF",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S06_M01",
+        "nome": "tecnicas avancadas de enfermagem",
+        "curso": "ENF",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S06_M02",
+        "nome": "solucoes profissionais de enfermagem",
+        "curso": "ENF",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S07_M01",
+        "nome": "topicos avancados de enfermagem",
+        "curso": "ENF",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S07_M02",
+        "nome": "pesquisa aplicada de enfermagem",
+        "curso": "ENF",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S08_M01",
+        "nome": "planejamento profissional de enfermagem",
+        "curso": "ENF",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S08_M02",
+        "nome": "projeto profissional de enfermagem",
+        "curso": "ENF",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S09_M01",
+        "nome": "pratica supervisionada de enfermagem",
+        "curso": "ENF",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S09_M02",
+        "nome": "estudos avancados de enfermagem",
+        "curso": "ENF",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S10_M01",
+        "nome": "estagio supervisionado de enfermagem",
+        "curso": "ENF",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ENF_S10_M02",
+        "nome": "projeto final de enfermagem",
+        "curso": "ENF",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S01_M01",
+        "nome": "fundamentos de biomedicina",
+        "curso": "BMD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S01_M02",
+        "nome": "introducao profissional de biomedicina",
+        "curso": "BMD",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S02_M01",
+        "nome": "metodos aplicados de biomedicina",
+        "curso": "BMD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S02_M02",
+        "nome": "pratica aplicada de biomedicina",
+        "curso": "BMD",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S03_M01",
+        "nome": "processos profissionais de biomedicina",
+        "curso": "BMD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S03_M02",
+        "nome": "laboratorio aplicado de biomedicina",
+        "curso": "BMD",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S04_M01",
+        "nome": "analise profissional de biomedicina",
+        "curso": "BMD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S04_M02",
+        "nome": "projeto aplicado de biomedicina",
+        "curso": "BMD",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S05_M01",
+        "nome": "gestao aplicada de biomedicina",
+        "curso": "BMD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S05_M02",
+        "nome": "projeto integrador de biomedicina",
+        "curso": "BMD",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S06_M01",
+        "nome": "tecnicas avancadas de biomedicina",
+        "curso": "BMD",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S06_M02",
+        "nome": "solucoes profissionais de biomedicina",
+        "curso": "BMD",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S07_M01",
+        "nome": "topicos avancados de biomedicina",
+        "curso": "BMD",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S07_M02",
+        "nome": "pesquisa aplicada de biomedicina",
+        "curso": "BMD",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S08_M01",
+        "nome": "planejamento profissional de biomedicina",
+        "curso": "BMD",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "BMD_S08_M02",
+        "nome": "projeto profissional de biomedicina",
+        "curso": "BMD",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S01_M01",
+        "nome": "fundamentos de farmacia",
+        "curso": "FAR",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S01_M02",
+        "nome": "introducao profissional de farmacia",
+        "curso": "FAR",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S02_M01",
+        "nome": "metodos aplicados de farmacia",
+        "curso": "FAR",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S02_M02",
+        "nome": "pratica aplicada de farmacia",
+        "curso": "FAR",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S03_M01",
+        "nome": "processos profissionais de farmacia",
+        "curso": "FAR",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S03_M02",
+        "nome": "laboratorio aplicado de farmacia",
+        "curso": "FAR",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S04_M01",
+        "nome": "analise profissional de farmacia",
+        "curso": "FAR",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S04_M02",
+        "nome": "projeto aplicado de farmacia",
+        "curso": "FAR",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S05_M01",
+        "nome": "gestao aplicada de farmacia",
+        "curso": "FAR",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S05_M02",
+        "nome": "projeto integrador de farmacia",
+        "curso": "FAR",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S06_M01",
+        "nome": "tecnicas avancadas de farmacia",
+        "curso": "FAR",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S06_M02",
+        "nome": "solucoes profissionais de farmacia",
+        "curso": "FAR",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S07_M01",
+        "nome": "topicos avancados de farmacia",
+        "curso": "FAR",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S07_M02",
+        "nome": "pesquisa aplicada de farmacia",
+        "curso": "FAR",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S08_M01",
+        "nome": "planejamento profissional de farmacia",
+        "curso": "FAR",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S08_M02",
+        "nome": "projeto profissional de farmacia",
+        "curso": "FAR",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S09_M01",
+        "nome": "pratica supervisionada de farmacia",
+        "curso": "FAR",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S09_M02",
+        "nome": "estudos avancados de farmacia",
+        "curso": "FAR",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S10_M01",
+        "nome": "estagio supervisionado de farmacia",
+        "curso": "FAR",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FAR_S10_M02",
+        "nome": "projeto final de farmacia",
+        "curso": "FAR",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S01_M01",
+        "nome": "fundamentos de fisioterapia",
+        "curso": "FIS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S01_M02",
+        "nome": "introducao profissional de fisioterapia",
+        "curso": "FIS",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S02_M01",
+        "nome": "metodos aplicados de fisioterapia",
+        "curso": "FIS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S02_M02",
+        "nome": "pratica aplicada de fisioterapia",
+        "curso": "FIS",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S03_M01",
+        "nome": "processos profissionais de fisioterapia",
+        "curso": "FIS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S03_M02",
+        "nome": "laboratorio aplicado de fisioterapia",
+        "curso": "FIS",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S04_M01",
+        "nome": "analise profissional de fisioterapia",
+        "curso": "FIS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S04_M02",
+        "nome": "projeto aplicado de fisioterapia",
+        "curso": "FIS",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S05_M01",
+        "nome": "gestao aplicada de fisioterapia",
+        "curso": "FIS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S05_M02",
+        "nome": "projeto integrador de fisioterapia",
+        "curso": "FIS",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S06_M01",
+        "nome": "tecnicas avancadas de fisioterapia",
+        "curso": "FIS",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S06_M02",
+        "nome": "solucoes profissionais de fisioterapia",
+        "curso": "FIS",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S07_M01",
+        "nome": "topicos avancados de fisioterapia",
+        "curso": "FIS",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S07_M02",
+        "nome": "pesquisa aplicada de fisioterapia",
+        "curso": "FIS",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S08_M01",
+        "nome": "planejamento profissional de fisioterapia",
+        "curso": "FIS",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S08_M02",
+        "nome": "projeto profissional de fisioterapia",
+        "curso": "FIS",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S09_M01",
+        "nome": "pratica supervisionada de fisioterapia",
+        "curso": "FIS",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S09_M02",
+        "nome": "estudos avancados de fisioterapia",
+        "curso": "FIS",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S10_M01",
+        "nome": "estagio supervisionado de fisioterapia",
+        "curso": "FIS",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FIS_S10_M02",
+        "nome": "projeto final de fisioterapia",
+        "curso": "FIS",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S01_M01",
+        "nome": "fundamentos de nutricao",
+        "curso": "NUT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S01_M02",
+        "nome": "introducao profissional de nutricao",
+        "curso": "NUT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S02_M01",
+        "nome": "metodos aplicados de nutricao",
+        "curso": "NUT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S02_M02",
+        "nome": "pratica aplicada de nutricao",
+        "curso": "NUT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S03_M01",
+        "nome": "processos profissionais de nutricao",
+        "curso": "NUT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S03_M02",
+        "nome": "laboratorio aplicado de nutricao",
+        "curso": "NUT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S04_M01",
+        "nome": "analise profissional de nutricao",
+        "curso": "NUT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S04_M02",
+        "nome": "projeto aplicado de nutricao",
+        "curso": "NUT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S05_M01",
+        "nome": "gestao aplicada de nutricao",
+        "curso": "NUT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S05_M02",
+        "nome": "projeto integrador de nutricao",
+        "curso": "NUT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S06_M01",
+        "nome": "tecnicas avancadas de nutricao",
+        "curso": "NUT",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S06_M02",
+        "nome": "solucoes profissionais de nutricao",
+        "curso": "NUT",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S07_M01",
+        "nome": "topicos avancados de nutricao",
+        "curso": "NUT",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S07_M02",
+        "nome": "pesquisa aplicada de nutricao",
+        "curso": "NUT",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S08_M01",
+        "nome": "planejamento profissional de nutricao",
+        "curso": "NUT",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "NUT_S08_M02",
+        "nome": "projeto profissional de nutricao",
+        "curso": "NUT",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S01_M01",
+        "nome": "fundamentos de odontologia",
+        "curso": "ODO",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S01_M02",
+        "nome": "introducao profissional de odontologia",
+        "curso": "ODO",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S02_M01",
+        "nome": "metodos aplicados de odontologia",
+        "curso": "ODO",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S02_M02",
+        "nome": "pratica aplicada de odontologia",
+        "curso": "ODO",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S03_M01",
+        "nome": "processos profissionais de odontologia",
+        "curso": "ODO",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S03_M02",
+        "nome": "laboratorio aplicado de odontologia",
+        "curso": "ODO",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S04_M01",
+        "nome": "analise profissional de odontologia",
+        "curso": "ODO",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S04_M02",
+        "nome": "projeto aplicado de odontologia",
+        "curso": "ODO",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S05_M01",
+        "nome": "gestao aplicada de odontologia",
+        "curso": "ODO",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S05_M02",
+        "nome": "projeto integrador de odontologia",
+        "curso": "ODO",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S06_M01",
+        "nome": "tecnicas avancadas de odontologia",
+        "curso": "ODO",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S06_M02",
+        "nome": "solucoes profissionais de odontologia",
+        "curso": "ODO",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S07_M01",
+        "nome": "topicos avancados de odontologia",
+        "curso": "ODO",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S07_M02",
+        "nome": "pesquisa aplicada de odontologia",
+        "curso": "ODO",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S08_M01",
+        "nome": "planejamento profissional de odontologia",
+        "curso": "ODO",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S08_M02",
+        "nome": "projeto profissional de odontologia",
+        "curso": "ODO",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S09_M01",
+        "nome": "pratica supervisionada de odontologia",
+        "curso": "ODO",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S09_M02",
+        "nome": "estudos avancados de odontologia",
+        "curso": "ODO",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S10_M01",
+        "nome": "estagio supervisionado de odontologia",
+        "curso": "ODO",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ODO_S10_M02",
+        "nome": "projeto final de odontologia",
+        "curso": "ODO",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S01_M01",
+        "nome": "fundamentos de psicologia",
+        "curso": "PSI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S01_M02",
+        "nome": "introducao profissional de psicologia",
+        "curso": "PSI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S02_M01",
+        "nome": "metodos aplicados de psicologia",
+        "curso": "PSI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S02_M02",
+        "nome": "pratica aplicada de psicologia",
+        "curso": "PSI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S03_M01",
+        "nome": "processos profissionais de psicologia",
+        "curso": "PSI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S03_M02",
+        "nome": "laboratorio aplicado de psicologia",
+        "curso": "PSI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S04_M01",
+        "nome": "analise profissional de psicologia",
+        "curso": "PSI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S04_M02",
+        "nome": "projeto aplicado de psicologia",
+        "curso": "PSI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S05_M01",
+        "nome": "gestao aplicada de psicologia",
+        "curso": "PSI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S05_M02",
+        "nome": "projeto integrador de psicologia",
+        "curso": "PSI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S06_M01",
+        "nome": "tecnicas avancadas de psicologia",
+        "curso": "PSI",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S06_M02",
+        "nome": "solucoes profissionais de psicologia",
+        "curso": "PSI",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S07_M01",
+        "nome": "topicos avancados de psicologia",
+        "curso": "PSI",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S07_M02",
+        "nome": "pesquisa aplicada de psicologia",
+        "curso": "PSI",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S08_M01",
+        "nome": "planejamento profissional de psicologia",
+        "curso": "PSI",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S08_M02",
+        "nome": "projeto profissional de psicologia",
+        "curso": "PSI",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S09_M01",
+        "nome": "pratica supervisionada de psicologia",
+        "curso": "PSI",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S09_M02",
+        "nome": "estudos avancados de psicologia",
+        "curso": "PSI",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S10_M01",
+        "nome": "estagio supervisionado de psicologia",
+        "curso": "PSI",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "PSI_S10_M02",
+        "nome": "projeto final de psicologia",
+        "curso": "PSI",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S01_M01",
+        "nome": "fundamentos de matematica",
+        "curso": "MAT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S01_M02",
+        "nome": "introducao profissional de matematica",
+        "curso": "MAT",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S02_M01",
+        "nome": "metodos aplicados de matematica",
+        "curso": "MAT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S02_M02",
+        "nome": "pratica aplicada de matematica",
+        "curso": "MAT",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S03_M01",
+        "nome": "processos profissionais de matematica",
+        "curso": "MAT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S03_M02",
+        "nome": "laboratorio aplicado de matematica",
+        "curso": "MAT",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S04_M01",
+        "nome": "analise profissional de matematica",
+        "curso": "MAT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S04_M02",
+        "nome": "projeto aplicado de matematica",
+        "curso": "MAT",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S05_M01",
+        "nome": "gestao aplicada de matematica",
+        "curso": "MAT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S05_M02",
+        "nome": "projeto integrador de matematica",
+        "curso": "MAT",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S06_M01",
+        "nome": "tecnicas avancadas de matematica",
+        "curso": "MAT",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S06_M02",
+        "nome": "solucoes profissionais de matematica",
+        "curso": "MAT",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S07_M01",
+        "nome": "topicos avancados de matematica",
+        "curso": "MAT",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S07_M02",
+        "nome": "pesquisa aplicada de matematica",
+        "curso": "MAT",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S08_M01",
+        "nome": "planejamento profissional de matematica",
+        "curso": "MAT",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "MAT_S08_M02",
+        "nome": "projeto profissional de matematica",
+        "curso": "MAT",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S01_M01",
+        "nome": "fundamentos de fisica",
+        "curso": "FSC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S01_M02",
+        "nome": "introducao profissional de fisica",
+        "curso": "FSC",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S02_M01",
+        "nome": "metodos aplicados de fisica",
+        "curso": "FSC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S02_M02",
+        "nome": "pratica aplicada de fisica",
+        "curso": "FSC",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S03_M01",
+        "nome": "processos profissionais de fisica",
+        "curso": "FSC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S03_M02",
+        "nome": "laboratorio aplicado de fisica",
+        "curso": "FSC",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S04_M01",
+        "nome": "analise profissional de fisica",
+        "curso": "FSC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S04_M02",
+        "nome": "projeto aplicado de fisica",
+        "curso": "FSC",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S05_M01",
+        "nome": "gestao aplicada de fisica",
+        "curso": "FSC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S05_M02",
+        "nome": "projeto integrador de fisica",
+        "curso": "FSC",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S06_M01",
+        "nome": "tecnicas avancadas de fisica",
+        "curso": "FSC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S06_M02",
+        "nome": "solucoes profissionais de fisica",
+        "curso": "FSC",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S07_M01",
+        "nome": "topicos avancados de fisica",
+        "curso": "FSC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S07_M02",
+        "nome": "pesquisa aplicada de fisica",
+        "curso": "FSC",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S08_M01",
+        "nome": "planejamento profissional de fisica",
+        "curso": "FSC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "FSC_S08_M02",
+        "nome": "projeto profissional de fisica",
+        "curso": "FSC",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S01_M01",
+        "nome": "fundamentos de estatistica",
+        "curso": "EST",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S01_M02",
+        "nome": "introducao profissional de estatistica",
+        "curso": "EST",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S02_M01",
+        "nome": "metodos aplicados de estatistica",
+        "curso": "EST",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S02_M02",
+        "nome": "pratica aplicada de estatistica",
+        "curso": "EST",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S03_M01",
+        "nome": "processos profissionais de estatistica",
+        "curso": "EST",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S03_M02",
+        "nome": "laboratorio aplicado de estatistica",
+        "curso": "EST",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S04_M01",
+        "nome": "analise profissional de estatistica",
+        "curso": "EST",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S04_M02",
+        "nome": "projeto aplicado de estatistica",
+        "curso": "EST",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S05_M01",
+        "nome": "gestao aplicada de estatistica",
+        "curso": "EST",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S05_M02",
+        "nome": "projeto integrador de estatistica",
+        "curso": "EST",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S06_M01",
+        "nome": "tecnicas avancadas de estatistica",
+        "curso": "EST",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S06_M02",
+        "nome": "solucoes profissionais de estatistica",
+        "curso": "EST",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S07_M01",
+        "nome": "topicos avancados de estatistica",
+        "curso": "EST",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S07_M02",
+        "nome": "pesquisa aplicada de estatistica",
+        "curso": "EST",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S08_M01",
+        "nome": "planejamento profissional de estatistica",
+        "curso": "EST",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EST_S08_M02",
+        "nome": "projeto profissional de estatistica",
+        "curso": "EST",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S01_M01",
+        "nome": "fundamentos de engenharia civil",
+        "curso": "ECV",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S01_M02",
+        "nome": "introducao profissional de engenharia civil",
+        "curso": "ECV",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S02_M01",
+        "nome": "metodos aplicados de engenharia civil",
+        "curso": "ECV",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S02_M02",
+        "nome": "pratica aplicada de engenharia civil",
+        "curso": "ECV",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S03_M01",
+        "nome": "processos profissionais de engenharia civil",
+        "curso": "ECV",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S03_M02",
+        "nome": "laboratorio aplicado de engenharia civil",
+        "curso": "ECV",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S04_M01",
+        "nome": "analise profissional de engenharia civil",
+        "curso": "ECV",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S04_M02",
+        "nome": "projeto aplicado de engenharia civil",
+        "curso": "ECV",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S05_M01",
+        "nome": "gestao aplicada de engenharia civil",
+        "curso": "ECV",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S05_M02",
+        "nome": "projeto integrador de engenharia civil",
+        "curso": "ECV",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S06_M01",
+        "nome": "tecnicas avancadas de engenharia civil",
+        "curso": "ECV",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S06_M02",
+        "nome": "solucoes profissionais de engenharia civil",
+        "curso": "ECV",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S07_M01",
+        "nome": "topicos avancados de engenharia civil",
+        "curso": "ECV",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S07_M02",
+        "nome": "pesquisa aplicada de engenharia civil",
+        "curso": "ECV",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S08_M01",
+        "nome": "planejamento profissional de engenharia civil",
+        "curso": "ECV",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S08_M02",
+        "nome": "projeto profissional de engenharia civil",
+        "curso": "ECV",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S09_M01",
+        "nome": "pratica supervisionada de engenharia civil",
+        "curso": "ECV",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S09_M02",
+        "nome": "estudos avancados de engenharia civil",
+        "curso": "ECV",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S10_M01",
+        "nome": "estagio supervisionado de engenharia civil",
+        "curso": "ECV",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECV_S10_M02",
+        "nome": "projeto final de engenharia civil",
+        "curso": "ECV",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S01_M01",
+        "nome": "fundamentos de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S01_M02",
+        "nome": "introducao profissional de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S02_M01",
+        "nome": "metodos aplicados de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S02_M02",
+        "nome": "pratica aplicada de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S03_M01",
+        "nome": "processos profissionais de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S03_M02",
+        "nome": "laboratorio aplicado de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S04_M01",
+        "nome": "analise profissional de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S04_M02",
+        "nome": "projeto aplicado de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S05_M01",
+        "nome": "gestao aplicada de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S05_M02",
+        "nome": "projeto integrador de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S06_M01",
+        "nome": "tecnicas avancadas de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S06_M02",
+        "nome": "solucoes profissionais de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S07_M01",
+        "nome": "topicos avancados de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S07_M02",
+        "nome": "pesquisa aplicada de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S08_M01",
+        "nome": "planejamento profissional de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S08_M02",
+        "nome": "projeto profissional de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S09_M01",
+        "nome": "pratica supervisionada de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S09_M02",
+        "nome": "estudos avancados de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S10_M01",
+        "nome": "estagio supervisionado de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGM_S10_M02",
+        "nome": "projeto final de engenharia mecanica",
+        "curso": "EGM",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S01_M01",
+        "nome": "fundamentos de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S01_M02",
+        "nome": "introducao profissional de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S02_M01",
+        "nome": "metodos aplicados de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S02_M02",
+        "nome": "pratica aplicada de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S03_M01",
+        "nome": "processos profissionais de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S03_M02",
+        "nome": "laboratorio aplicado de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S04_M01",
+        "nome": "analise profissional de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S04_M02",
+        "nome": "projeto aplicado de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S05_M01",
+        "nome": "gestao aplicada de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S05_M02",
+        "nome": "projeto integrador de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S06_M01",
+        "nome": "tecnicas avancadas de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S06_M02",
+        "nome": "solucoes profissionais de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S07_M01",
+        "nome": "topicos avancados de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S07_M02",
+        "nome": "pesquisa aplicada de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S08_M01",
+        "nome": "planejamento profissional de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S08_M02",
+        "nome": "projeto profissional de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S09_M01",
+        "nome": "pratica supervisionada de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S09_M02",
+        "nome": "estudos avancados de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S10_M01",
+        "nome": "estagio supervisionado de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGE_S10_M02",
+        "nome": "projeto final de engenharia eletrica",
+        "curso": "EGE",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S01_M01",
+        "nome": "fundamentos de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S01_M02",
+        "nome": "introducao profissional de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S02_M01",
+        "nome": "metodos aplicados de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S02_M02",
+        "nome": "pratica aplicada de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S03_M01",
+        "nome": "processos profissionais de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S03_M02",
+        "nome": "laboratorio aplicado de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S04_M01",
+        "nome": "analise profissional de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S04_M02",
+        "nome": "projeto aplicado de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S05_M01",
+        "nome": "gestao aplicada de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S05_M02",
+        "nome": "projeto integrador de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S06_M01",
+        "nome": "tecnicas avancadas de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S06_M02",
+        "nome": "solucoes profissionais de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S07_M01",
+        "nome": "topicos avancados de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S07_M02",
+        "nome": "pesquisa aplicada de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S08_M01",
+        "nome": "planejamento profissional de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S08_M02",
+        "nome": "projeto profissional de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S09_M01",
+        "nome": "pratica supervisionada de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S09_M02",
+        "nome": "estudos avancados de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 9,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S10_M01",
+        "nome": "estagio supervisionado de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "EGP_S10_M02",
+        "nome": "projeto final de engenharia de producao",
+        "curso": "EGP",
+        "semestre": 10,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S01_M01",
+        "nome": "fundamentos de economia",
+        "curso": "ECO",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S01_M02",
+        "nome": "introducao profissional de economia",
+        "curso": "ECO",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S02_M01",
+        "nome": "metodos aplicados de economia",
+        "curso": "ECO",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S02_M02",
+        "nome": "pratica aplicada de economia",
+        "curso": "ECO",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S03_M01",
+        "nome": "processos profissionais de economia",
+        "curso": "ECO",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S03_M02",
+        "nome": "laboratorio aplicado de economia",
+        "curso": "ECO",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S04_M01",
+        "nome": "analise profissional de economia",
+        "curso": "ECO",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S04_M02",
+        "nome": "projeto aplicado de economia",
+        "curso": "ECO",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S05_M01",
+        "nome": "gestao aplicada de economia",
+        "curso": "ECO",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S05_M02",
+        "nome": "projeto integrador de economia",
+        "curso": "ECO",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S06_M01",
+        "nome": "tecnicas avancadas de economia",
+        "curso": "ECO",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S06_M02",
+        "nome": "solucoes profissionais de economia",
+        "curso": "ECO",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S07_M01",
+        "nome": "topicos avancados de economia",
+        "curso": "ECO",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S07_M02",
+        "nome": "pesquisa aplicada de economia",
+        "curso": "ECO",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S08_M01",
+        "nome": "planejamento profissional de economia",
+        "curso": "ECO",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ECO_S08_M02",
+        "nome": "projeto profissional de economia",
+        "curso": "ECO",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S01_M01",
+        "nome": "fundamentos de administracao",
+        "curso": "ADM",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S01_M02",
+        "nome": "introducao profissional de administracao",
+        "curso": "ADM",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S02_M01",
+        "nome": "metodos aplicados de administracao",
+        "curso": "ADM",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S02_M02",
+        "nome": "pratica aplicada de administracao",
+        "curso": "ADM",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S03_M01",
+        "nome": "processos profissionais de administracao",
+        "curso": "ADM",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S03_M02",
+        "nome": "laboratorio aplicado de administracao",
+        "curso": "ADM",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S04_M01",
+        "nome": "analise profissional de administracao",
+        "curso": "ADM",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S04_M02",
+        "nome": "projeto aplicado de administracao",
+        "curso": "ADM",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S05_M01",
+        "nome": "gestao aplicada de administracao",
+        "curso": "ADM",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S05_M02",
+        "nome": "projeto integrador de administracao",
+        "curso": "ADM",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S06_M01",
+        "nome": "tecnicas avancadas de administracao",
+        "curso": "ADM",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S06_M02",
+        "nome": "solucoes profissionais de administracao",
+        "curso": "ADM",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S07_M01",
+        "nome": "topicos avancados de administracao",
+        "curso": "ADM",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S07_M02",
+        "nome": "pesquisa aplicada de administracao",
+        "curso": "ADM",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S08_M01",
+        "nome": "planejamento profissional de administracao",
+        "curso": "ADM",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "ADM_S08_M02",
+        "nome": "projeto profissional de administracao",
+        "curso": "ADM",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S01_M01",
+        "nome": "fundamentos de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S01_M02",
+        "nome": "introducao profissional de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S02_M01",
+        "nome": "metodos aplicados de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S02_M02",
+        "nome": "pratica aplicada de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S03_M01",
+        "nome": "processos profissionais de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S03_M02",
+        "nome": "laboratorio aplicado de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S04_M01",
+        "nome": "analise profissional de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S04_M02",
+        "nome": "projeto aplicado de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S05_M01",
+        "nome": "gestao aplicada de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S05_M02",
+        "nome": "projeto integrador de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S06_M01",
+        "nome": "tecnicas avancadas de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S06_M02",
+        "nome": "solucoes profissionais de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 6,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S07_M01",
+        "nome": "topicos avancados de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S07_M02",
+        "nome": "pesquisa aplicada de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 7,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S08_M01",
+        "nome": "planejamento profissional de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CCO_S08_M02",
+        "nome": "projeto profissional de ciencias contabeis",
+        "curso": "CCO",
+        "semestre": 8,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S01_M01",
+        "nome": "fundamentos de gestao financeira",
+        "curso": "GFI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S01_M02",
+        "nome": "introducao profissional de gestao financeira",
+        "curso": "GFI",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S02_M01",
+        "nome": "metodos aplicados de gestao financeira",
+        "curso": "GFI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S02_M02",
+        "nome": "pratica aplicada de gestao financeira",
+        "curso": "GFI",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S03_M01",
+        "nome": "processos profissionais de gestao financeira",
+        "curso": "GFI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S03_M02",
+        "nome": "laboratorio aplicado de gestao financeira",
+        "curso": "GFI",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S04_M01",
+        "nome": "analise profissional de gestao financeira",
+        "curso": "GFI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S04_M02",
+        "nome": "projeto aplicado de gestao financeira",
+        "curso": "GFI",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S05_M01",
+        "nome": "gestao aplicada de gestao financeira",
+        "curso": "GFI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "GFI_S05_M02",
+        "nome": "projeto integrador de gestao financeira",
+        "curso": "GFI",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S01_M01",
+        "nome": "fundamentos de comercio exterior",
+        "curso": "CEX",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S01_M02",
+        "nome": "introducao profissional de comercio exterior",
+        "curso": "CEX",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S02_M01",
+        "nome": "metodos aplicados de comercio exterior",
+        "curso": "CEX",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S02_M02",
+        "nome": "pratica aplicada de comercio exterior",
+        "curso": "CEX",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S03_M01",
+        "nome": "processos profissionais de comercio exterior",
+        "curso": "CEX",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S03_M02",
+        "nome": "laboratorio aplicado de comercio exterior",
+        "curso": "CEX",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S04_M01",
+        "nome": "analise profissional de comercio exterior",
+        "curso": "CEX",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S04_M02",
+        "nome": "projeto aplicado de comercio exterior",
+        "curso": "CEX",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S05_M01",
+        "nome": "gestao aplicada de comercio exterior",
+        "curso": "CEX",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "CEX_S05_M02",
+        "nome": "projeto integrador de comercio exterior",
+        "curso": "CEX",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S01_M01",
+        "nome": "fundamentos de logistica",
+        "curso": "LOG",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S01_M02",
+        "nome": "introducao profissional de logistica",
+        "curso": "LOG",
+        "semestre": 1,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S02_M01",
+        "nome": "metodos aplicados de logistica",
+        "curso": "LOG",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S02_M02",
+        "nome": "pratica aplicada de logistica",
+        "curso": "LOG",
+        "semestre": 2,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S03_M01",
+        "nome": "processos profissionais de logistica",
+        "curso": "LOG",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S03_M02",
+        "nome": "laboratorio aplicado de logistica",
+        "curso": "LOG",
+        "semestre": 3,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S04_M01",
+        "nome": "analise profissional de logistica",
+        "curso": "LOG",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S04_M02",
+        "nome": "projeto aplicado de logistica",
+        "curso": "LOG",
+        "semestre": 4,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S05_M01",
+        "nome": "gestao aplicada de logistica",
+        "curso": "LOG",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    },
+    {
+        "codigo": "LOG_S05_M02",
+        "nome": "projeto integrador de logistica",
+        "curso": "LOG",
+        "semestre": 5,
+        "carga_horaria": 80,
+        "status": "ativa"
+    }
+]

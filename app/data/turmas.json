@@ -1,0 +1,1602 @@
+[
+    {
+        "turma_id": "ADS_2026_S1_001",
+        "curso_sigla": "ADS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADS_2026_S1_002",
+        "curso_sigla": "ADS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADS_2026_S2_001",
+        "curso_sigla": "ADS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADS_2026_S2_002",
+        "curso_sigla": "ADS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDC_2026_S1_001",
+        "curso_sigla": "CDC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDC_2026_S1_002",
+        "curso_sigla": "CDC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDC_2026_S2_001",
+        "curso_sigla": "CDC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDC_2026_S2_002",
+        "curso_sigla": "CDC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGC_2026_S1_001",
+        "curso_sigla": "EGC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGC_2026_S1_002",
+        "curso_sigla": "EGC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGC_2026_S2_001",
+        "curso_sigla": "EGC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGC_2026_S2_002",
+        "curso_sigla": "EGC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "SDI_2026_S1_001",
+        "curso_sigla": "SDI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "SDI_2026_S1_002",
+        "curso_sigla": "SDI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "SDI_2026_S2_001",
+        "curso_sigla": "SDI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "SDI_2026_S2_002",
+        "curso_sigla": "SDI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GTC_2026_S1_001",
+        "curso_sigla": "GTC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GTC_2026_S1_002",
+        "curso_sigla": "GTC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GTC_2026_S2_001",
+        "curso_sigla": "GTC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GTC_2026_S2_002",
+        "curso_sigla": "GTC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CBS_2026_S1_001",
+        "curso_sigla": "CBS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CBS_2026_S1_002",
+        "curso_sigla": "CBS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CBS_2026_S2_001",
+        "curso_sigla": "CBS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CBS_2026_S2_002",
+        "curso_sigla": "CBS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BGD_2026_S1_001",
+        "curso_sigla": "BGD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BGD_2026_S1_002",
+        "curso_sigla": "BGD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BGD_2026_S2_001",
+        "curso_sigla": "BGD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BGD_2026_S2_002",
+        "curso_sigla": "BGD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDD_2026_S1_001",
+        "curso_sigla": "CDD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDD_2026_S1_002",
+        "curso_sigla": "CDD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDD_2026_S2_001",
+        "curso_sigla": "CDD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CDD_2026_S2_002",
+        "curso_sigla": "CDD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGD_2026_S1_001",
+        "curso_sigla": "EGD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGD_2026_S1_002",
+        "curso_sigla": "EGD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGD_2026_S2_001",
+        "curso_sigla": "EGD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGD_2026_S2_002",
+        "curso_sigla": "EGD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ITA_2026_S1_001",
+        "curso_sigla": "ITA",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ITA_2026_S1_002",
+        "curso_sigla": "ITA",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ITA_2026_S2_001",
+        "curso_sigla": "ITA",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ITA_2026_S2_002",
+        "curso_sigla": "ITA",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEN_2026_S1_001",
+        "curso_sigla": "CEN",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEN_2026_S1_002",
+        "curso_sigla": "CEN",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEN_2026_S2_001",
+        "curso_sigla": "CEN",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEN_2026_S2_002",
+        "curso_sigla": "CEN",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "DDS_2026_S1_001",
+        "curso_sigla": "DDS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "DDS_2026_S1_002",
+        "curso_sigla": "DDS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "DDS_2026_S2_001",
+        "curso_sigla": "DDS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "DDS_2026_S2_002",
+        "curso_sigla": "DDS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGS_2026_S1_001",
+        "curso_sigla": "EGS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGS_2026_S1_002",
+        "curso_sigla": "EGS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGS_2026_S2_001",
+        "curso_sigla": "EGS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGS_2026_S2_002",
+        "curso_sigla": "EGS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PDC_2026_S1_001",
+        "curso_sigla": "PDC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PDC_2026_S1_002",
+        "curso_sigla": "PDC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PDC_2026_S2_001",
+        "curso_sigla": "PDC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PDC_2026_S2_002",
+        "curso_sigla": "PDC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "JDG_2026_S1_001",
+        "curso_sigla": "JDG",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "JDG_2026_S1_002",
+        "curso_sigla": "JDG",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "JDG_2026_S2_001",
+        "curso_sigla": "JDG",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "JDG_2026_S2_002",
+        "curso_sigla": "JDG",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CGI_2026_S1_001",
+        "curso_sigla": "CGI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CGI_2026_S1_002",
+        "curso_sigla": "CGI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CGI_2026_S2_001",
+        "curso_sigla": "CGI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CGI_2026_S2_002",
+        "curso_sigla": "CGI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "RBT_2026_S1_001",
+        "curso_sigla": "RBT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "RBT_2026_S1_002",
+        "curso_sigla": "RBT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "RBT_2026_S2_001",
+        "curso_sigla": "RBT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "RBT_2026_S2_002",
+        "curso_sigla": "RBT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "AUC_2026_S1_001",
+        "curso_sigla": "AUC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "AUC_2026_S1_002",
+        "curso_sigla": "AUC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "AUC_2026_S2_001",
+        "curso_sigla": "AUC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "AUC_2026_S2_002",
+        "curso_sigla": "AUC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GIT_2026_S1_001",
+        "curso_sigla": "GIT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GIT_2026_S1_002",
+        "curso_sigla": "GIT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GIT_2026_S2_001",
+        "curso_sigla": "GIT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GIT_2026_S2_002",
+        "curso_sigla": "GIT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MED_2026_S1_001",
+        "curso_sigla": "MED",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MED_2026_S1_002",
+        "curso_sigla": "MED",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MED_2026_S2_001",
+        "curso_sigla": "MED",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MED_2026_S2_002",
+        "curso_sigla": "MED",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ENF_2026_S1_001",
+        "curso_sigla": "ENF",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ENF_2026_S1_002",
+        "curso_sigla": "ENF",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ENF_2026_S2_001",
+        "curso_sigla": "ENF",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ENF_2026_S2_002",
+        "curso_sigla": "ENF",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BMD_2026_S1_001",
+        "curso_sigla": "BMD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BMD_2026_S1_002",
+        "curso_sigla": "BMD",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BMD_2026_S2_001",
+        "curso_sigla": "BMD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "BMD_2026_S2_002",
+        "curso_sigla": "BMD",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FAR_2026_S1_001",
+        "curso_sigla": "FAR",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FAR_2026_S1_002",
+        "curso_sigla": "FAR",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FAR_2026_S2_001",
+        "curso_sigla": "FAR",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FAR_2026_S2_002",
+        "curso_sigla": "FAR",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FIS_2026_S1_001",
+        "curso_sigla": "FIS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FIS_2026_S1_002",
+        "curso_sigla": "FIS",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FIS_2026_S2_001",
+        "curso_sigla": "FIS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FIS_2026_S2_002",
+        "curso_sigla": "FIS",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "NUT_2026_S1_001",
+        "curso_sigla": "NUT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "NUT_2026_S1_002",
+        "curso_sigla": "NUT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "NUT_2026_S2_001",
+        "curso_sigla": "NUT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "NUT_2026_S2_002",
+        "curso_sigla": "NUT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ODO_2026_S1_001",
+        "curso_sigla": "ODO",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ODO_2026_S1_002",
+        "curso_sigla": "ODO",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ODO_2026_S2_001",
+        "curso_sigla": "ODO",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ODO_2026_S2_002",
+        "curso_sigla": "ODO",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PSI_2026_S1_001",
+        "curso_sigla": "PSI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PSI_2026_S1_002",
+        "curso_sigla": "PSI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PSI_2026_S2_001",
+        "curso_sigla": "PSI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "PSI_2026_S2_002",
+        "curso_sigla": "PSI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MAT_2026_S1_001",
+        "curso_sigla": "MAT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MAT_2026_S1_002",
+        "curso_sigla": "MAT",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MAT_2026_S2_001",
+        "curso_sigla": "MAT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "MAT_2026_S2_002",
+        "curso_sigla": "MAT",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FSC_2026_S1_001",
+        "curso_sigla": "FSC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FSC_2026_S1_002",
+        "curso_sigla": "FSC",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FSC_2026_S2_001",
+        "curso_sigla": "FSC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "FSC_2026_S2_002",
+        "curso_sigla": "FSC",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EST_2026_S1_001",
+        "curso_sigla": "EST",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EST_2026_S1_002",
+        "curso_sigla": "EST",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EST_2026_S2_001",
+        "curso_sigla": "EST",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EST_2026_S2_002",
+        "curso_sigla": "EST",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECV_2026_S1_001",
+        "curso_sigla": "ECV",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECV_2026_S1_002",
+        "curso_sigla": "ECV",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECV_2026_S2_001",
+        "curso_sigla": "ECV",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECV_2026_S2_002",
+        "curso_sigla": "ECV",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGM_2026_S1_001",
+        "curso_sigla": "EGM",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGM_2026_S1_002",
+        "curso_sigla": "EGM",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGM_2026_S2_001",
+        "curso_sigla": "EGM",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGM_2026_S2_002",
+        "curso_sigla": "EGM",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGE_2026_S1_001",
+        "curso_sigla": "EGE",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGE_2026_S1_002",
+        "curso_sigla": "EGE",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGE_2026_S2_001",
+        "curso_sigla": "EGE",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGE_2026_S2_002",
+        "curso_sigla": "EGE",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGP_2026_S1_001",
+        "curso_sigla": "EGP",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGP_2026_S1_002",
+        "curso_sigla": "EGP",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGP_2026_S2_001",
+        "curso_sigla": "EGP",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "EGP_2026_S2_002",
+        "curso_sigla": "EGP",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECO_2026_S1_001",
+        "curso_sigla": "ECO",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECO_2026_S1_002",
+        "curso_sigla": "ECO",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECO_2026_S2_001",
+        "curso_sigla": "ECO",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ECO_2026_S2_002",
+        "curso_sigla": "ECO",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADM_2026_S1_001",
+        "curso_sigla": "ADM",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADM_2026_S1_002",
+        "curso_sigla": "ADM",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADM_2026_S2_001",
+        "curso_sigla": "ADM",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "ADM_2026_S2_002",
+        "curso_sigla": "ADM",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CCO_2026_S1_001",
+        "curso_sigla": "CCO",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CCO_2026_S1_002",
+        "curso_sigla": "CCO",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CCO_2026_S2_001",
+        "curso_sigla": "CCO",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CCO_2026_S2_002",
+        "curso_sigla": "CCO",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GFI_2026_S1_001",
+        "curso_sigla": "GFI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GFI_2026_S1_002",
+        "curso_sigla": "GFI",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GFI_2026_S2_001",
+        "curso_sigla": "GFI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "GFI_2026_S2_002",
+        "curso_sigla": "GFI",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEX_2026_S1_001",
+        "curso_sigla": "CEX",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEX_2026_S1_002",
+        "curso_sigla": "CEX",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEX_2026_S2_001",
+        "curso_sigla": "CEX",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "CEX_2026_S2_002",
+        "curso_sigla": "CEX",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "LOG_2026_S1_001",
+        "curso_sigla": "LOG",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "LOG_2026_S1_002",
+        "curso_sigla": "LOG",
+        "ano": 2026,
+        "entrada_semestre": 1,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "LOG_2026_S2_001",
+        "curso_sigla": "LOG",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "001",
+        "periodo": "manha",
+        "turno_codigo": "MAN",
+        "status": "ativa"
+    },
+    {
+        "turma_id": "LOG_2026_S2_002",
+        "curso_sigla": "LOG",
+        "ano": 2026,
+        "entrada_semestre": 2,
+        "numero_turma": "002",
+        "periodo": "noite",
+        "turno_codigo": "NOT",
+        "status": "ativa"
+    }
+]
