@@ -12,7 +12,6 @@ app = FastAPI(title="CLASS_API")
 
 from routes.alunos import router as alunos_router
 from routes.cursos import router as cursos_router
-from routes.escolhas import router as escolhas_router
 from routes.grade import router as grade_router
 from routes.horarios import router as horarios_router
 from routes.materias import router as materias_router
@@ -25,7 +24,6 @@ from routes.turmas import router as turmas_router
 
 app.include_router(alunos_router)
 app.include_router(cursos_router)
-app.include_router(escolhas_router)
 app.include_router(grade_router)
 app.include_router(horarios_router)
 app.include_router(materias_router)
