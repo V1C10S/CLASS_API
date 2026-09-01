@@ -17,15 +17,13 @@ A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, M
 | JSON | Persistência dos dados |
 | Python 3.11+ | Linguagem |
 
-
 ## ESTRUTURA
 
-
+```text
 CLASS_API/
 ├── README.md
 └── app/
     ├── app.py
-    │
     ├── routes/
     │   ├── alunos.py
     │   ├── cursos.py
@@ -34,7 +32,6 @@ CLASS_API/
     │   ├── materias.py
     │   ├── notas.py
     │   └── turmas.py
-    │
     ├── crud/
     │   ├── alunos.py
     │   ├── cursos.py
@@ -43,11 +40,9 @@ CLASS_API/
     │   ├── materias.py
     │   ├── notas.py
     │   └── turmas.py
-    │
     ├── scripts/
-    │
     └── data/
-
+```
         
 ## USO
 
