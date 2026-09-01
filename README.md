@@ -2,6 +2,7 @@
 
 
 Uma API REST para gestão acadêmica.
+
 O projeto reproduz o núcleo de um sistema acadêmico, com entidades, rotas e regras de negócio próprias. Seu desenvolvimento envolveu a construção de operações CRUD para alunos, matérias, horários e notas, além de consultas de cursos, turmas e grades curriculares.
 A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, Medicina, Exatas e Economia. Os cursos possuem duração de 5 a 12 semestres e turmas com 40 alunos por padrão.
 
