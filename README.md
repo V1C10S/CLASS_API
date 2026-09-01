@@ -6,7 +6,7 @@ O projeto reproduz o núcleo de um sistema acadêmico, com entidades, rotas e re
 A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, Medicina, Exatas e Economia. Os cursos possuem duração de 5 a 12 semestres e turmas com 40 alunos por padrão.
 
 
-## Stack
+## STACK
 
 
 | Tecnologia | Aplicação |
@@ -18,19 +18,19 @@ A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, M
 | Python 3.11+ | Linguagem |
 
 
-## Estrutura
+## ESTRUTURA
 
 
 CLASS_API/
 
-└── app/  
-    ├── routes/      
-    ├── crud/        
-    ├── scripts/    
-    ├── data/        
+└── app/
+        ├── routes/      
+        ├── crud/        
+        ├── scripts/    
+        ├── data/        
     └── app.py  
 
-## Como executar
+## USO
 
 git clone https://github.com/V1C10S/CLASS_API.git
 cd CLASS_API
@@ -56,7 +56,7 @@ Inicie a API:
 uvicorn app:app --reload
 
 
-## Documentação
+## ENDPOINTS
 
 
 Com a API em execução:
