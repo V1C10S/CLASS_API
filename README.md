@@ -19,7 +19,8 @@ A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, M
 
 ## ESTRUTURA
 
-```text
+
+<pre>
 CLASS_API/
 ├── README.md
 └── app/
@@ -42,7 +43,8 @@ CLASS_API/
     │   └── turmas.py
     ├── scripts/
     └── data/
-```
+</pre>
+
         
 ## USO
 
