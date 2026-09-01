@@ -22,14 +22,32 @@ A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, M
 
 
 CLASS_API/
-
+├── README.md
 └── app/
-    ├── routes/   
+    ├── app.py
+    │
+    ├── routes/
+    │   ├── alunos.py
+    │   ├── cursos.py
+    │   ├── grade.py
+    │   ├── horarios.py
+    │   ├── materias.py
+    │   ├── notas.py
+    │   └── turmas.py
+    │
     ├── crud/
-    ├── scripts/    
-    ├── data/
-    └── app.py
-
+    │   ├── alunos.py
+    │   ├── cursos.py
+    │   ├── grade.py
+    │   ├── horarios.py
+    │   ├── materias.py
+    │   ├── notas.py
+    │   └── turmas.py
+    │
+    ├── scripts/
+    │
+    └── data/
+        
 ## USO
 
 git clone https://github.com/V1C10S/CLASS_API.git
