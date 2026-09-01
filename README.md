@@ -23,13 +23,12 @@ A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, M
 
 CLASS_API/
 
-└── app/
-    ├── app.py   
+└── app/  
     ├── routes/      
     ├── crud/        
     ├── scripts/    
-    └── data/        
-
+    ├── data/        
+    └── app.py  
 
 ## Como executar
 
