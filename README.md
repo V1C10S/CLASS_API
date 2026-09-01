@@ -22,6 +22,7 @@ A base de dados sintética contém 40 cursos, divididos entre as áreas de TI, M
 
 
 CLASS_API/
+
 └── app/
     ├── app.py   
     ├── routes/      
