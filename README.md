@@ -28,7 +28,7 @@ CLASS_API/
         ├── crud/        
         ├── scripts/    
         ├── data/        
-    └── app.py  
+        └── app.py  
 
 ## USO
 
